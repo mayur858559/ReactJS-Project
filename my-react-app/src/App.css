@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+.main-div{
+  width: 300px;
+  margin: 0 auto;
+  border: 1px solid;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 40px;
+  padding-bottom: 40px;
+  padding-top: 10px;
+  height: 300px;
+}
+h1{
+  width: 100%;
+    border-bottom: 1px solid;
+    padding-bottom: 5px;
+    text-align: center;
+}
+button{
+  margin-left: 10px;
+  padding: 4px;
+  font-weight: bold;
+  float: right;
+    margin-top: 5px;
+}
+input{
+  padding: 5px;
+    border: 1px solid;
+    border-radius: 4px;
+    width: 96%;
+    margin-bottom: 10px;
+}
+ul {
+  list-style-type: none !important;
+}
